@@ -21,7 +21,7 @@ The goal is to implement a simple Todo application that will save all changes to
   <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Load_Todos.jpg">
 
 - Implement error messages<br>
-  <img src="https://github.com/Galers/Gif-Galers/blob/main/Eror%20load%20todos.jpg">
+  <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Eror%20load%20todos.jpg">
 
 - Implemented filtering by status
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Filter.gif">
@@ -35,8 +35,8 @@ The goal is to implement a simple Todo application that will save all changes to
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Delete_todos.gif">
 
 - Error status after add or deleting todo<br>
-  <img src="https://github.com/Galers/Gif-Galers/blob/main/Error_add.jpg">
-  <img src="https://github.com/Galers/Gif-Galers/blob/main/Error_delete.jpg">
+  <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_add.jpg">
+  <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_delete.jpg">
 
   ## In this 2st part:
 
