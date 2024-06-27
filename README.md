@@ -23,7 +23,7 @@ The goal is to implement a simple Todo application that will save all changes to
 - Implement error messages<br>
   <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Eror%20load%20todos.jpg">
 
-- Implemented filtering by status
+- Implemented filtering by status<br>
   <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Filter.gif">
 
 ## In this 2st part:
