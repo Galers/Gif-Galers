@@ -17,7 +17,7 @@ The goal is to implement a simple Todo application that will save all changes to
 
 - [X] **_In 1st part_**:
 
-- Todos loading is implemented<br>
+- [x] **_Todos loading is implemented_**<br>
   <img width="400" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Load_Todos.jpg">
   <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Todos_loading.gif">
 
