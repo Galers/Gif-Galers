@@ -12,3 +12,8 @@ Add gif
 
 - implemented filtering by status
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Filter.gif">
+
+## In this 2st part:
+
+- Adding a todo<br>
+  <img src="https://github.com/Galers/Gif-Galers/blob/main/Add_todos.gif">
