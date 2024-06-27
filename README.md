@@ -9,3 +9,6 @@ Add gif
 
 - implement error messages<br>
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Eror%20load%20todos.jpg">
+
+- implemented filtering by status
+  <img src="https://github.com/Galers/Gif-Galers/blob/main/Filter.gif">
