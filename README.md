@@ -16,7 +16,7 @@ Add gif
 ## In this 2st part:
 
 - Adding a todo<br>
-  <img src="https://github.com/Galers/Gif-Galers/blob/main/Add_todos.gif">
+  <img src="https://github.com/Galers/Gif-Galers/blob/main/ToDo_App.gif">
 
 - Deleting todos<br>
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Delete_todos.gif">
