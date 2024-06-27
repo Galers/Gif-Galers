@@ -22,5 +22,4 @@ Add gif
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Delete_todos.gif">
 
 - Error status after add or deleting todo<br>
-  <img src="https://github.com/Galers/Gif-Galers/blob/main/Error_add.jpg">
-  <img src="https://github.com/Galers/Gif-Galers/blob/main/Error_delete.jpg">
+  <img src="https://github.com/Galers/Gif-Galers/blob/main/Error_add.jpg"> <img src="https://github.com/Galers/Gif-Galers/blob/main/Error_delete.jpg">
