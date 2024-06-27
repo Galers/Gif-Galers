@@ -17,3 +17,6 @@ Add gif
 
 - Adding a todo<br>
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Add_todos.gif">
+
+- Deleting todos<br>
+  <img src="https://github.com/Galers/Gif-Galers/blob/main/Delete_todos.gif">
