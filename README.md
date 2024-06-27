@@ -114,3 +114,7 @@ The project is divided into three parts: loading todos, adding and deleting todo
   <p align="center">
     <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Slider_Air.gif">
   </p>
+
+  <p align="center">
+       <img width="500" height="350" src="https://github.com/Galers/Gif-Galers/blob/main/Cards.gif">
+    </p>
