@@ -1,7 +1,8 @@
 #My Readmy
 Gif by porfolio project
-
-<img align="center" style="border-radius: 5%" src="https://github.com/Galers/Gif-Galers/blob/main/Main_logo.jpg">
+<p align="center">
+  <img src="https://github.com/Galers/Gif-Galers/blob/main/Main_logo.jpg">
+</p>
 <h1 align="center">ToDos</h1>
 
 # Project Description:
