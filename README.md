@@ -18,7 +18,7 @@ The goal is to implement a simple Todo application that will save all changes to
 ## In this 1st part:
 
 - Todos loading is implemented<br>
-  <img width="400" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Load_Todos.jpg">
+  <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Load_Todos.jpg">
 
 - Implement error messages<br>
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Eror%20load%20todos.jpg">
