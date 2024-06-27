@@ -15,41 +15,40 @@ The goal is to implement a simple Todo application that will save all changes to
 - Adding and deleting todo's
 - Filtering and modifying
 
-- [X] **_In 1st part_**:
+## In 1st part:
 
 - [x] **_Todos loading is implemented_**<br>
-  <img width="400" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Load_Todos.jpg">
-  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Todos_loading.gif">
+      <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Load_Todos.jpg">
 
-- Implement error messages<br>
-  <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Eror%20load%20todos.jpg">
+- [x] **_Implemented filtering by status_**<br>
+      <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Filter.gif">
 
-- Implemented filtering by status<br>
-  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Filter.gif">
+- [x] **_Implement error messages_**<br>
+      <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Eror%20load%20todos.jpg">
 
-## In this 2st part:
+## In 2st part:
 
-- Adding a todo<br>
-  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Add_todos.gif">
+- [x] **_Adding a todo_**<br>
+      <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Add_todos.gif">
 
-- Deleting todos<br>
-  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Delete_todos.gif">
+- [x] **_Deleting todos_**<br>
+      <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Delete_todos.gif">
 
-- Error status after add or deleting todo<br>
-  <img width="350" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_add.jpg">
-  <img width="350" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_delete.jpg">
+- [x] **_Error status after add or deleting todo_**<br>
+      <img width="350" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_add.jpg">
+      <img width="350" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_delete.jpg">
 
-## In the last part 3:
+  ## In the last part 3:
 
-- Toggling a todo status<br>
-  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Toggle-1.gif">
-  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Toggle-2.gif">
+- [x] **_Toggling a todo status_**<br>
+      <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Toggle-1.gif">
+      <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Toggle-2.gif">
 
-- Renaming a todo<br>
-  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Rename_Todo.gif">
+- [x] **_Renaming a todo_**<br>
+      <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Rename_Todo.gif">
 
-- Error status after toggling or renaming todo<br>
-  <img width="350" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error-Rename.jpg">
+- [x] **_Error status after toggling or renaming todo_**<br>
+      <img width="350" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error-Rename.jpg">
 
 ## Link by app
 
