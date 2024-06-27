@@ -6,3 +6,6 @@ Add gif
 
 - todos loading is implemented
   <img src="https://github.com/Galers/Gif-Galers/blob/main/image.png">
+
+- implement error messages
+  <img src="https://github.com/Galers/Gif-Galers/blob/main/Eror%20load%20todos.jpg">
