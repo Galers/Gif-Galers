@@ -39,6 +39,18 @@ The goal is to implement a simple Todo application that will save all changes to
   <img width="350" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_add.jpg">
   <img width="350" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_delete.jpg">
 
+## In the last part 3:
+
+- Toggling a todo status<br>
+  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Toggle-1.gif">
+  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Toggle-2.gif">
+
+- Renaming a todo<br>
+  <img width="400" height="300" src="https://github.com/Galers/Gif-Galers/blob/main/Rename_Todo.gif">
+
+- Error status after toggling or renaming todo<br>
+  <img width="350" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error-Rename.jpg">
+
 ## Link by app
 
 [DEMO LINK](https://galers.github.io/portfolio-Todo-API/)
