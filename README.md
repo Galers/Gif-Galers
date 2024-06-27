@@ -35,8 +35,8 @@ The goal is to implement a simple Todo application that will save all changes to
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Delete_todos.gif">
 
 - Error status after add or deleting todo<br>
-  <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_add.jpg">
-  <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_delete.jpg">
+  <img width="400" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_add.jpg">
+  <img width="400" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/Error_delete.jpg">
 
   ## In this 2st part:
 
