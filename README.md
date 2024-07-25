@@ -6,11 +6,7 @@
 
 </div>
 
-<p align="center">
-  <img width="100" height="100" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png">
-</p>
-
-## Link by game 🔗
+## Link by game 🔗👇
 
 [Try to win this damn game yourself 🚀](https://galers.github.io/portfolio-Game-2048/)
 
@@ -19,6 +15,14 @@
 <img width="50" height="50" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> is a number puzzle game. When the squares of the same number are merged together, they will add up. Each round will have an extra square with 2 or 4 written on it, and the game ends when the square cannot be moved. Players have to find a way to make up a square with 2048 (or larger) in this small 16 squares.
 
 ### How to play in 2048 🕹️:
+
+Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️
+**_Sorry, but unfortunately you can't play on your phone.😞😓🙏🏻
+I will add this feature as soon as possible.⏱️_**
+
+<div align="center">
+<img width="50" height="50" src="https://github.com/Galers/Gif-Galers/blob/arrows_2048.jpg">
+</div>
 
 ### Win 🏆
 
@@ -46,9 +50,10 @@ That screenshot is fake, by the way. I never reached 2048 score. 😄
 
 [@Galers](https://www.linkedin.com/in/andriy-halosa-b0900a302/)
 
+</div>
+
 <p>Thank you for your attention🥰🥰🥰</p>
 
-</div>
 
 
 
