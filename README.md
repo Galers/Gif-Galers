@@ -19,7 +19,7 @@
 To start playing, you need to click on the start button.
 
 <div align="center">
-<img width="400" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/start_bnt_2048.jpg">
+<img width="350" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/start_bnt_2048.jpg">
 </div>
 
 Next to the start button, there is a score indicator. (But I don't recommend looking at it, it gives almost nothing).
