@@ -39,7 +39,7 @@ Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️<br
 I will add this feature as soon as possible.⏱️_**
 
 <div align="center">
-<img width="300" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/arrows_2048.jpg">
+<img width="300" height="200" src="https://github.com/Galers/Gif-Galers/blob/main/arrows_2048.jpg">
 </div>
 
 ### Win 🏆
