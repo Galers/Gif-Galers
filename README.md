@@ -41,13 +41,16 @@ Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️<br
 <div align="center">
 <img width="300" height="200" src="https://github.com/Galers/Gif-Galers/blob/main/arrows_2048.jpg">
 </div>
-**_Sorry, but unfortunately you can't play on your phone.😞😓🙏🏻<br/>
-I will add this feature as soon as possible.⏱️_**
+
+<br/>
+
+**_Sorry, but unfortunately you can't play on your phone._** 😞😓🙏🏻<br/>
+**_I will add this feature as soon as possible._**⏱️
 
 ### Win 🏆
 
-In order to win, you need to score <img width="30" height="30" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> points in one of the squares.
-_(Don't think it's that easy)_
+In order to win, you need to score <img width="35" height="35" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> points in one of the squares.<br/>
+_(Don't think it's that easy)_<br/>
 If you can do it, you will see a notification:
 
 <div align="center">
@@ -60,9 +63,22 @@ And the field will look like this:
 <img width="500" height="650" src="https://github.com/Galers/Gif-Galers/blob/main/win_game_2048.jpg">
 </div>
 
-That screenshot is fake, by the way. I never reached 2048 score. 😄
+‎‧₊˚✧*P.S That screenshot is fake, by the way. I never reached 2048 score. 😄*✧˚₊‧
 
 ### Lose 💩
+
+The game ends when the square cannot be moved.<br/>
+_But don't worry, you can always try again._
+
+<div align="center">
+<img width="390" height="560" src="https://github.com/Galers/Gif-Galers/blob/main/lose_game_2048.jpg">
+</div>
+
+You will see this message most often:
+
+<div align="center">
+<img width="386" height="65" src="https://github.com/Galers/Gif-Galers/blob/main/lose_msg.jpg">
+</div>
 
 ## Stack technologies were used 🛠️
 
@@ -87,7 +103,6 @@ That screenshot is fake, by the way. I never reached 2048 score. 😄
 </div>
 
 <p>Thank you for your attention🥰🥰🥰</p>
-
 
 
 
