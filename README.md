@@ -26,11 +26,11 @@ That screenshot is fake, by the way. I never reached 2048 score. 😄
 
 ### Lose 💩
 
-### Stack technologies were used 🛠️
+## Stack technologies were used 🛠️
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,vscode,github)](https://skillicons.dev)
 
-### Get the initial code 👨‍💻
+## Get the initial code 👨‍💻
 
 1. `Clone` the repository:
    - `git clone` in your PC;
