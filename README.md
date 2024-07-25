@@ -9,6 +9,10 @@ Gif by porfolio project
   <img src="https://github.com/Galers/Gif-Galers/blob/main/Main_logo.jpg">
 </p>
 
+<p align="center">
+  <img src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png">
+</p>
+
 # Project Description: React Todo App
 
 The goal is to implement a simple **_Todo application_** that will save all changes to [the API](https://mate-academy.github.io/fe-students-api/).
