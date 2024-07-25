@@ -46,12 +46,12 @@ I will add this feature as soon as possible.⏱️_**
 
 ### Win 🏆
 
-In order to win, you need to score <img width="50" height="50" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> points in one of the squares.
+In order to win, you need to score <img width="30" height="30" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> points in one of the squares.
 _(Don't think it's that easy)_
 If you can do it, you will see a notification:
 
 <div align="center">
-<img width="300" height="200" src="https://github.com/Galers/Gif-Galers/blob/main/win_2048.jpg">
+<img width="500" height="200" src="https://github.com/Galers/Gif-Galers/blob/main/win_2048.jpg">
 </div>
 
 And the field will look like this:
