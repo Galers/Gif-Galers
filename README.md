@@ -10,7 +10,7 @@ Gif by porfolio project
 </p>
 
 <p align="center">
-  <img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png">
+  <img width="250" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png">
 </p>
 
 # Project Description: React Todo App
