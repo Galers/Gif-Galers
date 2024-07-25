@@ -12,24 +12,25 @@
 
 ## Project Description: Game 2048 🎮
 
-<img width="50" height="50" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> is a number puzzle game. When the squares of the same number are merged together, they will add up. Each round will have an extra square with 2 or 4 written on it, and the game ends when the square cannot be moved. Players have to find a way to make up a square with 2048 (or larger) in this small 16 squares.
+<img width="50" height="50" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> is a number puzzle game. When the squares of the same number are merged together, they will add up. Each round will have an extra square with 2 or 4 written on it, and the game ends when the square cannot be moved. Players have to find a way to make up a square with 2048 _(or larger)_ in this small 16 squares.
 
 ### How to play in 2048 🕹️:
 
-<p>To start playing, you need to click on the start button.</p>
-
+To start playing, you need to click on the **START** button.
 
 <div align="center">
 <img width="350" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/start_bnt_2048.jpg">
 </div>
 
-Next to the start button, there is a score indicator. (But I don't recommend looking at it, it gives almost nothing).
+Next to the START button, there is a **score** indicator.🎰
+_(But I don't recommend looking at it, it gives almost nothing)_
 
 <div align="center">
 <img width="350" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/score_2048.jpg">
 </div>
 
-If you don't like something in this session, you can always start over by pressing the <span style='color:red'>RESTART</span> button (I think you'll find it very useful).
+If you don't like something in this session, you can always start over by pressing the **RESTART** button. ⟳
+_(I think you'll find it very useful🔥)_
 
 <div align="center">
 <img width="350" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/restart_2048.jpg">
@@ -40,11 +41,24 @@ Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️<br
 <div align="center">
 <img width="300" height="200" src="https://github.com/Galers/Gif-Galers/blob/main/arrows_2048.jpg">
 </div>
-
 **_Sorry, but unfortunately you can't play on your phone.😞😓🙏🏻<br/>
 I will add this feature as soon as possible.⏱️_**
 
 ### Win 🏆
+
+In order to win, you need to score <img width="50" height="50" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> points in one of the squares.
+_(Don't think it's that easy)_
+If you can do it, you will see a notification:
+
+<div align="center">
+<img width="300" height="200" src="https://github.com/Galers/Gif-Galers/blob/main/win_2048.jpg">
+</div>
+
+And the field will look like this:
+
+<div align="center">
+<img width="300" height="200" src="https://github.com/Galers/Gif-Galers/blob/main/win_game_2048.jpg">
+</div>
 
 That screenshot is fake, by the way. I never reached 2048 score. 😄
 
@@ -73,7 +87,6 @@ That screenshot is fake, by the way. I never reached 2048 score. 😄
 </div>
 
 <p>Thank you for your attention🥰🥰🥰</p>
-
 
 
 
