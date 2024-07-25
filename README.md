@@ -35,12 +35,12 @@ If you don't like something in this session, you can always start over by pressi
 </div>
 
 Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️<br/>
-**_Sorry, but unfortunately you can't play on your phone.😞😓🙏🏻<br/>
-I will add this feature as soon as possible.⏱️_**
 
 <div align="center">
 <img width="300" height="200" src="https://github.com/Galers/Gif-Galers/blob/main/arrows_2048.jpg">
 </div>
+**_Sorry, but unfortunately you can't play on your phone.😞😓🙏🏻<br/>
+I will add this feature as soon as possible.⏱️_**
 
 ### Win 🏆
 
