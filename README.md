@@ -22,7 +22,7 @@ Gif by porfolio project
 The goal is to implement a simple **_Todo application_** that will save all changes to [the API](https://mate-academy.github.io/fe-students-api/).
 
 The project is divided into three parts: loading todos, adding and deleting todos, and toggling and renaming todos.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,github)](https://skillicons.dev)
 ## The task consisted of 3 parts:
 
 - Download the task.
