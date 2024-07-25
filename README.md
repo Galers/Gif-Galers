@@ -47,7 +47,7 @@ Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️<br
 **_Sorry, but unfortunately you can't play on your phone._** 😞😓🙏🏻<br/>
 **_I will add this feature as soon as possible._**⏱️
 
-### Win 🏆
+### Win 🏆🏆🏆
 
 In order to win, you need to score <img width="35" height="35" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> points in one of the squares.<br/>
 _(Don't think it's that easy)_<br/>
@@ -63,12 +63,12 @@ And the field will look like this:
 <img width="500" height="650" src="https://github.com/Galers/Gif-Galers/blob/main/win_game_2048.jpg">
 </div>
 
-‎‧₊˚✧*P.S That screenshot is fake, by the way. I never reached 2048 score. 😄*✧˚₊‧
+‎‧₊˚✧*P.S That screenshot is fake, by the way. I never reached 2048 score.*😄😄😄✧˚₊‧
 
-### Lose 💩
+### Lose 💩💩💩
 
 The game ends when the square cannot be moved.<br/>
-_But don't worry, you can always try again._
+‎‧₊˚✧*But don't worry, you can always try again*✧˚₊‧
 
 <div align="center">
 <img width="390" height="560" src="https://github.com/Galers/Gif-Galers/blob/main/lose_game_2048.jpg">
@@ -102,7 +102,7 @@ You will see this message most often:
 
 </div>
 
-<p>Thank you for your attention🥰🥰🥰</p>
+**_Thank you for your attention and GL_**🥰🥰🥰
 
 
 
