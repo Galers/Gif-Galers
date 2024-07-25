@@ -16,7 +16,7 @@
 
 ### How to play in 2048 🕹️:
 
-Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️
+Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️ <br/>
 **_Sorry, but unfortunately you can't play on your phone.😞😓🙏🏻
 I will add this feature as soon as possible.⏱️_**
 
