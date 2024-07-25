@@ -60,7 +60,7 @@ If you can do it, you will see a notification:
 And the field will look like this:
 
 <div align="center">
-<img width="500" height="650" src="https://github.com/Galers/Gif-Galers/blob/main/win_game_2048.jpg">
+<img width="390" height="560" src="https://github.com/Galers/Gif-Galers/blob/main/win_game_2048.jpg">
 </div>
 
 ‎‧₊˚✧*P.S That screenshot is fake, by the way. I never reached 2048 score.*😄😄😄✧˚₊‧
