@@ -19,19 +19,19 @@
 To start playing, you need to click on the start button.
 
 <div align="center">
-<img width="300" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/start_bnt_2048.jpg">
+<img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/start_bnt_2048.jpg">
 </div>
 
 Next to the start button, there is a score indicator. (But I don't recommend looking at it, it gives almost nothing).
 
 <div align="center">
-<img width="300" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/score_2048.jpg">
+<img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/score_2048.jpg">
 </div>
 
 If you don't like something in this session, you can always start over by pressing the RESTART button (I think you'll find it very useful).
 
 <div align="center">
-<img width="300" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/restart_2048.jpg">
+<img width="500" height="250" src="https://github.com/Galers/Gif-Galers/blob/main/restart_2048.jpg">
 </div>
 
 Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️<br/>
