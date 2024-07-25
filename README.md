@@ -29,7 +29,7 @@ Next to the start button, there is a score indicator. (But I don't recommend loo
 <img width="350" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/score_2048.jpg">
 </div>
 
-If you don't like something in this session, you can always start over by pressing the RESTART button (I think you'll find it very useful).
+If you don't like something in this session, you can always start over by pressing the <span style='color:red'>RESTART</span> button (I think you'll find it very useful).
 
 <div align="center">
 <img width="350" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/restart_2048.jpg">
