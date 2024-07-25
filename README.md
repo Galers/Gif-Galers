@@ -16,7 +16,8 @@
 
 ### How to play in 2048 🕹️:
 
-To start playing, you need to click on the start button.
+<p>To start playing, you need to click on the start button.</p>
+
 
 <div align="center">
 <img width="350" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/start_bnt_2048.jpg">
