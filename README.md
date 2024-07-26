@@ -57,6 +57,10 @@ If you can do it, you will see a notification:
 <img width="500" height="150" src="https://github.com/Galers/Gif-Galers/blob/main/win_2048.jpg">
 </div>
 
+<div align="center">
+<img width="390" height="560" src="https://github.com/Galers/Gif-Galers/blob/main/WIN_gif.gif">
+</div>
+
 And the field will look like this:
 
 <div align="center">
