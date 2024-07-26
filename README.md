@@ -78,14 +78,12 @@ The game ends when the square cannot be moved.<br/>
 <div align="center">
 <img width="390" height="560" src="https://github.com/Galers/Gif-Galers/blob/main/lose_game_2048.jpg">
 </div>
-<div align="center">
-<img width="386" height="65" src="https://github.com/Galers/Gif-Galers/blob/main/lose_msg.jpg">
-</div>
+
 
 😈😈😈 You will see this message most often:
 
 <div align="center">
-<img width="390" height="560" src="https://github.com/Galers/Gif-Galers/blob/main/lose_gif_2048.gif">
+<img width="390" height="500" src="https://github.com/Galers/Gif-Galers/blob/main/lose_gif_2048.gif">
 </div>
 
 ## Stack technologies were used 🛠️
