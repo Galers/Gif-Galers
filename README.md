@@ -45,9 +45,10 @@ Use the arrows on your keyboard to move the squares. ⬆️⬇️⬅️➡️<br
 <br/>
 
 **_Sorry, but unfortunately you can't play on your phone._** 😞😓🙏🏻<br/>
+
 **_I will add this feature as soon as possible._**⏱️
 
-### Win 🏆🏆🏆
+### 🏆🏆 Win 🏆🏆
 
 In order to win, you need to score <img width="35" height="35" src="https://github.com/Galers/Gif-Galers/blob/main/2048_logo.svg.png"> points in one of the squares.<br/>
 _(Don't think it's that easy)_<br/>
@@ -69,7 +70,7 @@ And the field will look like this:
 
 ‎‧₊˚✧*P.S That screenshot is fake, by the way. I never reached 2048 score.*😄😄😄✧˚₊‧
 
-### Lose 💩💩💩
+### 💩💩 Lose 💩💩
 
 The game ends when the square cannot be moved.<br/>
 ‎‧₊˚✧*But don't worry, you can always try again*✧˚₊‧
@@ -77,11 +78,14 @@ The game ends when the square cannot be moved.<br/>
 <div align="center">
 <img width="390" height="560" src="https://github.com/Galers/Gif-Galers/blob/main/lose_game_2048.jpg">
 </div>
-
-You will see this message most often:
-
 <div align="center">
 <img width="386" height="65" src="https://github.com/Galers/Gif-Galers/blob/main/lose_msg.jpg">
+</div>
+
+😈😈😈 You will see this message most often:
+
+<div align="center">
+<img width="390" height="560" src="https://github.com/Galers/Gif-Galers/blob/main/lose_gif_2048.gif">
 </div>
 
 ## Stack technologies were used 🛠️
@@ -106,7 +110,8 @@ You will see this message most often:
 
 </div>
 
-**_Thank you for your attention and GL_**🥰🥰🥰
+**_Thank you for your attention and GL_** 🥰🥰🥰
+
 
 
 
