@@ -58,7 +58,7 @@ If you can do it, you will see a notification:
 </div>
 
 <div align="center">
-<img width="390" height="560" src="https://github.com/Galers/Gif-Galers/blob/main/WIN_gif.gif">
+<img width="390" height="500" src="https://github.com/Galers/Gif-Galers/blob/main/WIN_gif.gif">
 </div>
 
 And the field will look like this:
